@@ -1,2 +1,2 @@
-# ljolivet_homepage
+# laurence-jolivet
 LaSTIG homepage of Laurence Jolivet
